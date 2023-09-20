@@ -1,0 +1,53 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+.logo_1{
+    height: 40px;
+    width: 58px;
+    margin-top: -4px;
+}
+.logo_2{
+    margin-left: 0.3375rem;
+    max-width: 9.75rem;
+    height: 34px;
+}
+
+.content{
+    position: relative;
+}
+
+.slidebar .bi-caret-right-fill{
+    position: absolute;
+    right: 5%;
+}
+
+form{
+    position: relative;
+}
+
+.search_box{
+    position: relative;
+}
+
+.search{
+    position: absolute;
+    top: 10%
+}
+
+.filter{
+    position: relative;
+}
+
+.bi-arrow-up-circle-fill{
+    position: absolute;
+    right: 2%;
+}
+
+table {
+    border-collapse: collapse;
+}
+  
+th, td {
+    padding: 10px 30px;
+    text-align: left;
+}
